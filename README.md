@@ -1,2 +1,2 @@
 # clg-assignment
-my college assignments
+all assignment by my college that i might need later
